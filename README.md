@@ -4,7 +4,6 @@
 <b>Languages:</b><br>
 ![PHP](https://img.shields.io/badge/php-%23007ACC.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br>
 
 <b>Databases:</b><br>
