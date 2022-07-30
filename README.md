@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
 
-<b>Languages:</b><br>
 <p align="left">
 <a href="https://github.com/muhdavi">
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhdavi&layout=compact&langs_count=8&theme=algolia"/>
