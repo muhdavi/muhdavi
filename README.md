@@ -1,11 +1,11 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=muhdavi.muhdavi)
 ### Hi there! 👋 
 
-<b>Dev Tools:</b><br>
+<b>Dev Tools:</b>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <br>
 
-<b>Catch me 📫:</b><br>
+<b>Catch me:</b>
 <a href="https://www.linkedin.com/in/muhdavi/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
