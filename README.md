@@ -1,13 +1,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=muhdavi.muhdavi)
 ### Hi there! 👋 
-### Catch me:
+<b>Catch me:</b><br/>
 <a href="https://www.linkedin.com/in/muhdavi/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-<b>Dev Tools:</b>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<br>
 
 <p align="left">
 <a href="https://github.com/muhdavi">
@@ -29,4 +25,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 -->
