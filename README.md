@@ -12,6 +12,12 @@
 </a>
 </p>
 
+<p>
+<a href="https://github.com/muhdavi">
+    <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhdavi&theme=algolia)"/>
+</a>
+</p>
+
 <!--
 **muhdavi/muhdavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
