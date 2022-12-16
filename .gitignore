@@ -1,0 +1,25 @@
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.idea
+# hidden files
+.*
+!.git*
+!.editorconfig
+!.nojekyll
+!.husky
+!.commitlintrc.json
+!.versionrc.json
+!.stylelintrc.json
+
+# bundler cache
+_site
+vendor
+Gemfile.lock
+
+# rubygem
+*.gem
+
+# npm dependencies
+node_modules
+package-lock.json
