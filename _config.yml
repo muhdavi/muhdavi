@@ -1,0 +1,15 @@
+url: 'https://muhdavi.com'
+baseurl: ''
+title: 'Muhammad Davi'
+
+plugins:
+  - jekyll-postcss
+
+postcss:
+  cache: false
+
+exclude:
+  - package.json
+  - postcss.config.js
+  - tailwind.config.js
+  - yarn.lock
