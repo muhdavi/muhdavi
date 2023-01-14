@@ -6,7 +6,7 @@ title: "Happy coding"
 <div class="py-24 max-w-xl mx-auto text-center">
     <h1 class="text-xl mb-12">
     <span class="text-4xl block">Muhammad Davi</span>
-    <span class="uppercase font-light text-red-500">
+    <span class="uppercase font-light text-blue-500">
       Pertahanan, Doringan dan Motivasi
     </span>
     </h1>
