@@ -4,7 +4,6 @@ title: 'Muhammad Davi'
 
 plugins:
   - jekyll-postcss
-  - jekyll-tailwind
 
 postcss:
   cache: false
