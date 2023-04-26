@@ -3,4 +3,34 @@
 
 @tailwind base;
 @tailwind components;
+
+.sticky-nav {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+@media (max-width: 640px) {
+    .nav-toggle {
+        display: block;
+    }
+    .nav-collapse {
+        display: none;
+    }
+    .nav-collapse.open {
+        display: block;
+    }
+}
+
+.nav-collapse {
+    transition: all 0.3s ease-in-out;
+}
+
+/* Mengatur tampilan tombol menu toggle */
+#menu-toggle svg {
+    fill: currentColor;
+}
+
+
+
 @tailwind utilities;

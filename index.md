@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Happy coding"
+title: "Muhammad Davi"
 ---
 
 <div class="py-24 max-w-xl mx-auto text-center">
