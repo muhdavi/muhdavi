@@ -1,18 +1,21 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'en-US' }}">
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>{{ page.title }} - {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-    <script src="{{ '/assets/js/main.js' | relative_url }}" defer></script>
-</head>
-<body>
-<header>
-    {% include nav.html %}
-</header>
-<main>
+
+{% include head.html %}
+
+<body class="relative container min-h-screen px-4 py-8 mx-auto w-full lg:w-1/2 font-sans antialiased text-stone-700 leadind-relaxed">
+
+<div class="mb-12">
+    {% include header.html %}
+</div>
+
+<div class="mb-12">
     {{ content }}
-</main>
+</div>
+
+<div class="absolute bottom-20">
+    {% include footer.html %}
+</div>
+
 </body>
 </html>

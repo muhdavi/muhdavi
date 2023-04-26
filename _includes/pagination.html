@@ -1,0 +1,26 @@
+<!-- Pagination -->
+<div class="text-sm">
+    {% if paginator.total_pages > 1 %}
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="mr-1">Anterior</a>
+    {% else %}
+    <span class="opacity-25 mr-1">Anterior</span>
+    {% endif %}
+
+    {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+    <span class="bg-slate-100 p-2 font-bold">{{ page }}</span>
+    {% elsif page == 1 %}
+    <a href="/blog" class="mx-1">{{ page }}</a>
+    {% else %}
+    <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}" class="mx-1">{{ page }}</a>
+    {% endif %}
+    {% endfor %}
+
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="ml-1">Siguiente</a>
+    {% else %}
+    <span class="opacity-25 ml-1">Siguiente</span>
+    {% endif %}
+    {% endif %}
+</div>

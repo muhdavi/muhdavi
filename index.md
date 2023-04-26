@@ -3,13 +3,14 @@ layout: default
 title: "Muhammad Davi"
 ---
 
-<div class="py-24 max-w-xl mx-auto text-center">
-    <h1 class="text-xl mb-12">
-    <span class="text-4xl block">Muhammad Davi</span>
-    <span class="uppercase font-light text-blue-500">
-      Pertahanan, Doringan dan Motivasi
-    </span>
-    </h1>
+<div>
+    <div class="avatar">
+        <img src="{{ site.baseurl }}/assets/images/avatar.jpg" alt="Muhammad Davi" />
+    </div>
+    
+    <div class="text-content">
+        <p>Hey, I'm Davi (<a href="https://twitter.com/muhdavi">@muhdavi</a>).</p>
 
-    <h2>Build something beautiful with it ✌️</h2>
+        <p>I'm a lecture in <b>Politeknik Negeri Lhokseumawe</b></p>
+    </div>
 </div>
